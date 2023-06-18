@@ -1,0 +1,114 @@
+NSC,DRUG_NAME,FDA_STATUS,MoA,PUBCHEM_SID,TOTAL_EXPERIMENTS,TOTAL_EXPERIMENTS_AFTER_QC,FAILURE_REASON
+740,METHOTREXATE,FDA approved,Df|DHFR,126941,135,76,-
+9706,Triethylenemelamine,FDA approved,A7|AlkAg,5799,128,117,-
+12198,Dromostanolone Propionate,FDA approved,Ho,224004,2,2,-
+19987,Methylprednisolone,FDA approved,NonCan:Anti-inflammatory,6741,1,1,-
+26980,Mitomycin,FDA approved,A2|AlkAg,5746,130,122,-
+34462,Uracil mustard,FDA approved,A7|AlkAg,6194,50,46,-
+36405,Chelerythrine,Clinical trial,"BCL2|PK:PRKCA,STK",72311,2,2,-
+67574,Vincristine,FDA approved,TUBB|Tu-frag,249332,63,25,-
+71423,Megestrol acetate,FDA approved,Ho|PGR,11683,1,1,-
+77213,Procarbazine,FDA approved,A7|AlkAg,9703,47,3,-
+88536,Calusterone,FDA approved,Ho,28204,2,1,-
+92339,Fluphenazine,FDA approved,NonCan:Psy,6215,3,2,-
+92859,Arsenic trioxide,FDA approved,Apo,261004,5,2,-
+93819,ergenyl,FDA approved,"PK:GSK3A,GSK3B",3121,2,1,-
+94600,CAMPTOTHECIN,FDA approved,TOP1,24360,7,7,-
+109874,Benzimate,Clinical trial,TUBB,25429,2,2,-
+134727,Mitomycin,FDA approved,A2|AlkAg,281834,2,2,-
+138783,Bendamustine,FDA approved,A2|A6|AlkAg,77082,3,1,-
+154948,M-AMSA,FDA approved,TOP2,148674,2,2,-
+174939,Elesclomol,Clinical trial,PK:ROS1,300471,2,2,-
+221019,WORTMANNIN,Clinical trial,PK:PIK3,312145,1,1,-
+249992,M-AMSA,FDA approved,TOP2,2179,132,121,-
+279836,MITOXANTRONE,FDA approved,TOP2,4212,2,2,-
+281612,benzaldehyde (BEN),Clinical trial,A7,322931,1,1,-
+308847,AMONAFIDE,Clinical trial,TOP2,50515,14,2,-
+352122,TRIMETREXATE GLUCURONATE,FDA approved,Df|DHFR,54949,19,10,-
+354258,8-Chloro-adenosine,Clinical trial,AM,337175,3,3,-
+606869,Clofarabine,FDA approved,Ds,354624,3,3,-
+608210,Vinorelbine,FDA approved,TUBB|Tu-frag,25136944,2,2,-
+613327,Gemcitabine,FDA approved,Ds,60750,10,9,-
+627168,Pyrazoloacridine,Clinical trial,Db,339455,3,2,-
+628503,Docetaxel,FDA approved,TUBB|Tu-stab,148124,8,3,-
+637037,O-6-Benzylguanine,Clinical trial,DDR|MGMT,4578,3,1,-
+638850,7-Hydroxystaurosporine,Clinical trial,"PK:STK,CDK1,CDK2,CDK4,CDK6",72271,4,2,-
+639186,Raltitrexed,FDA approved,Ds|DHFR|TYMS,135400182,1,1,-
+639966,Perifosine,Clinical trial,"PK:STK,AKT,AKT1,AKT2,AKT3",148177,4,3,-
+656576,Midostaurin,FDA approved,"PK:PRKCA,STK,FLT3",24202429,6,4,-
+673596,7-Ethyl-10-hydroxycamptothecin,FDA approved,TOP1,104842,4,4,-
+677083,Okadaic acid,Clinical trial,Pase,5468826,3,3,-
+683863,Irofulven,FDA approved,Apo|AlkAg|RDI,148189,2,2,-
+684363,Epothilone B,Clinical trial,TUBB|Tu-stab,448013,3,1,-
+686288,AMINOFLAVONE,Clinical trial,Db|DDI,389710,5,4,-
+694501,BN-2629,Clinical trial,Db,393111,5,2,-
+697286,LY-294002,Clinical trial,PK:PIK3,3973,1,1,-
+697726,RH1,Clinical trial,PK:ROS1,394347,7,6,-
+697912,5-Fluoro deoxy uridine 10mer,Clinical trial,Ds|AM,16130072,2,2,-
+698037,Pemetrexed,FDA approved,Df|AM|GARTF|DHFR|TYMS,135410875,2,2,-
+701554,Seliciclib,Clinical trial,"PK:STK,CDK,CDK2,CDK7,CDK9",160355,1,1,-
+702294,Estramustine,FDA approved,A7|TUBB|AlkAg,54611422,2,1,-
+706995,Entinostat,Clinical trial,HDAC,4261,2,2,-
+707389,Eribulin mesilate,FDA approved,TUBB,54611489,6,3,-
+708298,AR-67,Clinical trial,TOP1,6712744,2,2,-
+710270,Karenitecin,Clinical trial,TOP1,148202,2,2,-
+710297,PX-316,Clinical trial,PK:STK,399457,1,1,-
+710464,AFP464,Clinical trial,Db|DDI,399587,2,2,-
+713763,Rebimastat,Clinical trial,PSM,401057,1,1,-
+719239,E-7820,Clinical trial,Ang|ITG,196970,3,2,-
+719276,Fulvestrant,FDA approved,AM|Ho|ESR|SERM,104741,2,2,-
+721517,Zoledronate,FDA approved,AM|NonCan:Anti-bone resorp,68740,2,1,-
+724998,LMP-400,Clinical trial,TOP1,11533060,2,2,-
+725776,LMP776,Clinical trial,TOP1,45027820,2,2,-
+726630,Belinostat,FDA approved,HDAC,6918638,3,2,-
+727989,Lapatinib,FDA approved,"PK:STK,YK,MET,EGFR,ERBB2,KIT,RAF,VEGFR",11679357,2,2,-
+728073,Irinotecan,FDA approved,TOP1,60838,2,2,-
+728165,Lificguat,Clinical trial,HYP|HIF1|EPAS1,5712,2,2,-
+732011,SR16157,Clinical trial,Ho,24202898,2,2,-
+737754,Pazopanib,FDA approved,"PK:YK,PDGFR,FGFR,KIT,VEGFR",11525740,3,3,-
+741078,Selumetinib,FDA approved,"PK:STK,YK,MAP2K,MAP2K1,MAP2K2",10127622,3,3,-
+741899,BML-277,Clinical trial,"PK:CHEK,CHEK2",9969021,3,2,-
+744912,Obatoclax,Clinical trial,Apo|BCL2,45028942,6,2,-
+745750,Lapatinib,FDA approved,"PK:STK,YK,MET,EGFR,ERBB2,KIT,RAF,VEGFR",208908,5,5,-
+747167,Nelfinavir,FDA approved,PSM,64143,2,1,-
+747599,Nilotinib,FDA approved,BCR-ABL|PK:YK,644241,2,2,-
+747856,Olaparib,FDA approved,PARP|PARP1,23725625,1,1,-
+747973,Ixabepilone,FDA approved,TUBB|Tu-stab,6445540,3,1,-
+747974,Raloxifene,FDA approved,Ho|SERM,5035,2,2,-
+749226,Abiraterone,FDA approved,Ho|CYP17A1,132971,1,1,-
+750690,Sunitinib,FDA approved,"PK:YK,PDGFR,KIT,VEGFR,Multikinase",5329102,6,6,-
+750691,Afatinib,FDA approved,"PK:YK,EGFR",10184653,2,2,-
+751548,salinomycin,FDA approved,Apo|Ab|CD133,60147550,2,2,-
+752782,Pazopanib,FDA approved,"PK:YK,PDGFR,FGFR,KIT,VEGFR",10113978,1,1,-
+754143,Depsipeptide,FDA approved,HDAC,5352062,1,1,-
+754230,pralatrexate,FDA approved,Df|CTNNB1|DHFR,148121,2,2,-
+755841,Actinomycin D,FDA approved,Db,45006140,2,2,-
+755880,Mitomycin,FDA approved,A2|AlkAg,5702003,2,2,-
+755985,Nelarabine,FDA approved,Ds,3011155,1,1,-
+756645,Crizotinib,FDA approved,"PK:YK,MET,ALK",54613769,3,3,-
+756717,DAUNORUBICIN,FDA approved,TOP2,30323,2,2,-
+756738,DIGOXIN,FDA approved,NonCan:CardG,5702042,2,1,-
+757027,ETHINYL ESTRADIOL,FDA approved,Ho,24707,1,1,-
+757087,Nitrogen mustard,FDA approved,A7|AlkAg,4033,2,2,-
+757098,Melphalan,FDA approved,A7|AlkAg,460612,1,1,-
+757363,TYROTHRICIN,FDA approved,NonCan:Ant,16132496,2,2,-
+757384,Vinblastine,FDA approved,TUBB|Tu-frag,9962911,2,2,-
+757441,Axitinib,FDA approved,"PK:YK,PDGFR,VEGFR",6450551,2,2,-
+757804,Etoposide,FDA approved,TOP2,6708815,2,2,-
+758230,Floxuridine,FDA approved,Ds|TYMS,5702211,2,2,-
+758423,M-AMSA,FDA approved,TOP2,3926765,2,2,-
+758612,Bleomycin,FDA approved,Db,60148416,2,2,-
+758645,Paclitaxel,FDA approved,TUBB|Tu-stab,441276,2,2,-
+758664,Rapamycin,FDA approved,"PK:STK,MTOR",60148419,2,2,-
+758667,Teniposide,FDA approved,TOP2,6708778,2,2,-
+758671,ANCITABINE HYDROCHLORIDE,FDA approved,Ds,16667703,1,1,-
+759155,Doxorubicin,FDA approved,TOP2,6916127,2,2,-
+759174,Vincristine,FDA approved,TUBB|Tu-frag,9832825,2,2,-
+759178,Pipamperone,FDA approved,NonCan:Psy,4830,2,2,-
+759195,Epirubicin,FDA approved,TOP2,65348,2,2,-
+759263,Topotecan,FDA approved,TOP1,60699,2,2,-
+759274,ARSENIC TRIOXIDE,FDA approved,Apo,518605,2,2,-
+759850,Docetaxel,FDA approved,TUBB|Tu-stab,9877265,2,2,-
+759857,Clofarabine,FDA approved,Ds,60148441,2,2,-
+760087,VINORELBINE,FDA approved,TUBB|Tu-frag,60780,2,2,-
+761431,Vemurafenib,FDA approved,"PK:YK,BRAF",42611257,3,3,-
